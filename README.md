@@ -30,12 +30,13 @@ This automation script orchestrates the ESC8 attack chain, which exploits vulner
 - **PetitPotam** - Coercion tool for authentication
 - **secretsdump.py** - Impacket credential dumper
 - **tqdm** - Progress bar library
+- **gnome-terminal** (for background process management)
 
 ### System Requirements
 
 - Linux operating system (tested on Kali Linux)
 - Network access to target Active Directory environment
-- GNOME Terminal (for background process management)
+
 
 ## 📦 Installation
 
